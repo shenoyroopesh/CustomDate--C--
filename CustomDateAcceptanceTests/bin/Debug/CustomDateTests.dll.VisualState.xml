@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1041]D:\Learnings\BDD\CustomDate\CustomDate\CustomDateAcceptanceTests\bin\Debug\CustomDateTests.dll</TopNode>
+  <SelectedNode>[0-1041]D:\Learnings\BDD\CustomDate\CustomDate\CustomDateAcceptanceTests\bin\Debug\CustomDateTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1041]D:\Learnings\BDD\CustomDate\CustomDate\CustomDateAcceptanceTests\bin\Debug\CustomDateTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1042]CustomDateTests" Expanded="true" />
+    <Node UniqueName="[0-1043]CustomDateTests.UnitTests" Expanded="true" />
+  </Nodes>
+</VisualState>
